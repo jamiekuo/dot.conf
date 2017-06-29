@@ -1,0 +1,14 @@
+*
+# for git
+!*.git*
+
+# for vim
+!*.vimrc
+!*.vim
+!*.vim/plugin
+
+# for tmux
+!*.tmux.conf
+
+# for zsh
+!*.zshrc
