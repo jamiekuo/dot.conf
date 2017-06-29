@@ -1,6 +1,6 @@
 *
 # for git
-!*.git*
+!.git*
 
 # for vim
 !*.vimrc
