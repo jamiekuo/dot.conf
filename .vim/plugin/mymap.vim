@@ -14,12 +14,12 @@ nmap <F1> :Autoformat<CR>
 nmap <F7> :NERDTreeToggle<CR>
 nmap <F8> :TagbarToggle<CR>
 
-" easy navigation btw splits 
-nmap <C-Down> <C-W><C-J>
-nmap <C-Up> <C-W><C-K>
-nmap <C-Left> <C-W><C-L>
-nmap <C-Right> <C-W><C-H>
+" " easy navigation btw splits 
+" nmap <C-Down> <C-W><C-J>
+" nmap <C-Up> <C-W><C-K>
+" nmap <C-Left> <C-W><C-L>
+" nmap <C-Right> <C-W><C-H>
 
 " key mapping
-nmap {<CR> {<CR>}<Esc>ko<Tab>
+" nmap {<CR> {<CR>}<Esc>ko<Tab>
 
