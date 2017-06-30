@@ -1,3 +1,4 @@
+
 " let g:indentLine_enabled = 0
 
 " " Vim
@@ -9,3 +10,4 @@
 " " none X terminal
 " let g:indentLine_color_tty_light = 7 " (default: 4)
 " let g:indentLine_color_dark = 1 " (default: 2)
+

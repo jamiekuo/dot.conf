@@ -1,5 +1,6 @@
 
-"Settings for vim-airline
+set laststatus=2
+
 ""This is disabled by default; add the following to your vimrc to enable 
 "the extension:
 let g:airline#extensions#tabline#enabled = 1

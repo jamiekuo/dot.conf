@@ -23,7 +23,6 @@ Plugin 'scrooloose/syntastic'
 Plugin 'davidhalter/jedi-vim'
 Plugin 'Yggdroot/indentLine'
 Plugin 'Chiel92/vim-autoformat'
-Plugin 'flazz/vim-colorschemes'
 " for git 
 Plugin 'tpope/vim-fugitive'
 Plugin 'airblade/vim-gitgutter'
@@ -45,6 +44,3 @@ filetype plugin indent on    " required
 " " see :h vundle for more details or wiki for FAQ
 " " Put your non-Plugin stuff after this line
  
-" setting for 'vim-colorscheme'
-colorscheme molokai
-
