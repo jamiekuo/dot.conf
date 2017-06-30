@@ -5,7 +5,8 @@
 # for vim
 !*.vimrc
 !*.vim
-!*.vim/plugin
+!*.vim/*
+.vim/bundle
 
 # for tmux
 !*.tmux.conf
