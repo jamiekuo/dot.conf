@@ -3,7 +3,7 @@
 " save file
 nmap <c-s> :w<CR>
 imap <c-s> <c-o>:w<CR>
-vmap <c-s> <ESC>w<CR>
+vmap <c-s> <ESC>:w<CR>
 
 " leave file
 set confirm
