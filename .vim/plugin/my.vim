@@ -1,5 +1,6 @@
-"syntax on
-set nu
+
+" line number
+set number
 
 " initiate mouse
 set mouse=a
@@ -8,20 +9,21 @@ set ttymouse=xterm2
 " for search
 set incsearch
 set hlsearch
+" " ignorecase
 set ic
 
-" close file after modification
+" close file confirm
 set confirm 
-
-" 80 characters reminder
-set cc=80
 
 " remain indent
 set ai
 
-" location remind                                                              
+" current line reminder
 set cursorline
 
 " do not change lines
 set nowrap
+
+" 80 characters remind code length
+set cc=80
 
