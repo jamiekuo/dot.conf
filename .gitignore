@@ -1,15 +1,15 @@
 *
 # for git
-!.git*
+!/.git*
 
 # for vim
-!*.vimrc
-!*.vim
-!*.vim/*
-.vim/bundle
+!/.vimrc
+!/.vim
+!/.vim/*
+!/.vim/bundle/Vundle.vim
 
 # for tmux
-!*.tmux.conf
+!/.tmux.conf
 
 # for zsh
-!*.zshrc
+!/.zshrc
