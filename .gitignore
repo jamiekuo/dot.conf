@@ -10,6 +10,7 @@
 
 # for tmux
 !/.tmux.conf
+!/.tmux-resurre
 
 # for zsh
 !/.zshrc
