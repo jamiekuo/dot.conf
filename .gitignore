@@ -6,6 +6,7 @@
 !/.vimrc
 !/.vim
 !/.vim/*
+!/.vim/plugin/*
 !/.vim/bundle/Vundle.vim
 
 # for tmux
